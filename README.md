@@ -34,3 +34,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGenius&count_private=true&show_icons=true&theme=tokyonight)
