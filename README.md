@@ -4,17 +4,18 @@
 
 ### 서비스를 만들수 있다 !
 
-🖼️ FrontEnd 🖼️
+🖼️ FrontEnd 🖼️ \
 React
-Flutter
+Flutter \
 
-🕹️ BackEnd 🕹️
-Go
-NodeJS
+🕹️ BackEnd 🕹️ \
 
-🗂️ DB 🗂️
-MongoDB
-MySQL
+<img src="https://img.shields.io/badge/-Go-%237fd5ea"/>
+<img src="https://img.shields.io/badge/-NodeJS-%23026e00"/>
+
+🗂️ DB 🗂️ \
+MongoDB \
+MySQL \
 Postgresql
 
 ### 
