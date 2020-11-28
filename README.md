@@ -34,6 +34,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-
-
-![길을 찾는중](https://github.githubassets.com/images/modules/notifications/inbox-zero.svg)
