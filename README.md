@@ -48,3 +48,9 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
+
+
+<h3>만들면서 참고한 것</h3>
+[다양한 기술? 뱃지](https://simpleicons.org/)
+[2모지](https://emojipedia.org/)
+[Github Status](https://github.com/anuraghazra/github-readme-stats)
