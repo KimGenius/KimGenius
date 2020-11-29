@@ -3,9 +3,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGenius&count_private=true&show_icons=true&theme=tokyonight)
 
 
-<h2 align="center">🥇 Lv. Production</h2>
+<h2>🥇 Lv. Production</h2>
 
-<h3>🖼️ FrontEnd</h3>
+<h3>🧩 FrontEnd</h3>
 TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 수 있죠 <br/><br/>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -18,7 +18,7 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
-<h3 align="center">🗂️ DB</h3>
+<h3 align="center">🗃️ DB</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
