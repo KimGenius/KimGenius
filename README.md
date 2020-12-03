@@ -59,6 +59,10 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
 - [Vue-FilePond](https://github.com/pqina/vue-filepond)
   - [Live Demo 추가](https://github.com/pqina/vue-filepond/pull/73)
   - [간단한 줄바꿈](https://github.com/pqina/vue-filepond/pull/74)
+  
+**반영되지 않은 항목**
+- [credit-card-type](https://github.com/braintree/credit-card-type)
+  - [Live Demo 추가](https://github.com/braintree/credit-card-type/pull/92)
 
 <h3>만들면서 참고한 것</h3>
 
