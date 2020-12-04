@@ -70,6 +70,8 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
   - [Live Demo 추가](https://github.com/braintree/credit-card-type/pull/92)
 - [SOLAPI Go SDK](https://github.com/solapi/solapi-go/pull/6)
   - [오타 수정](https://github.com/solapi/solapi-go/pull/6)
+- [solapi-sdk-js-v4](https://github.com/solapi/solapi-sdk-js-v4)
+  - [ReadMe yarn installing 추가](https://github.com/solapi/solapi-sdk-js-v4/pull/14)
 
 <h3>만들면서 참고한 것</h3>
 
