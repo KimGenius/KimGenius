@@ -8,7 +8,7 @@
 <h2>🥇 Lv. Production</h2>
 
 <h3>🧩 FrontEnd</h3>
-React를 사용하여 개발자를 위한 최고의 문자 플랫폼 <a href="https://solapi.com">SOLAPI</a> 에서 근무하는 동안 대시보드, API Signature 발급기, 일일발송량 증가, 수신거부 목록 페이지 등 프론트엔드 개발을 하였습니다. <br/>	
+React를 사용하여 개발자를 위한 최고의 문자 플랫폼 <a href="https://solapi.com">SOLAPI</a> 에서 근무하는 동안 대시보드, API Signature 발급기, 일일발송량 증가, Storage, 수신거부 목록 페이지 등 프론트엔드 개발을 하였습니다. <br/>	
 Flutter를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비스 개발에 참여했었습니다.	
 <br/><br/>
 <p>
