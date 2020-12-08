@@ -68,14 +68,14 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
   - [간단한 줄바꿈](https://github.com/pqina/vue-filepond/pull/74)
 - [SOLAPI Go SDK](https://github.com/solapi/solapi-go)
   - [코드 개선 및 정리](https://github.com/solapi/solapi-go/pull/3)
-  
+- [solapi-sdk-js-v4](https://github.com/solapi/solapi-sdk-js-v4)
+  - [Travis CI Test 실패 수정 & ReadMe yarn installing 추가](https://github.com/solapi/solapi-sdk-js-v4/pull/14)
+
 **반영되지 않은 항목**
 - [credit-card-type](https://github.com/braintree/credit-card-type)
   - [Live Demo 추가](https://github.com/braintree/credit-card-type/pull/92)
 - [SOLAPI Go SDK](https://github.com/solapi/solapi-go/pull/6)
   - [오타 수정](https://github.com/solapi/solapi-go/pull/6)
-- [solapi-sdk-js-v4](https://github.com/solapi/solapi-sdk-js-v4)
-  - [Travis CI Test 실패 수정 & ReadMe yarn installing 추가](https://github.com/solapi/solapi-sdk-js-v4/pull/14)
 
 <h3>만들면서 참고한 것</h3>
 
