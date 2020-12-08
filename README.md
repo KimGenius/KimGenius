@@ -32,7 +32,7 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
 </p>
 
 <h3>🗃️ DB</h3>
-TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 수 있죠 <br/><br/>
+실제로 Production 환경에서 운영해본 경험이 있는 DB입니다.
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
