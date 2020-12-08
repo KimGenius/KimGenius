@@ -32,7 +32,8 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
 </p>
 
 <h3>🗃️ DB</h3>
-실제로 Production 환경에서 운영해본 경험이 있는 DB입니다.
+실제로 Production 환경에서 운영해본 경험이 있는 DB입니다. <br/>
+<br/>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
