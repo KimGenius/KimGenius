@@ -42,9 +42,9 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
 </p>
 
 <h2>🥈 Lv. Project</h2>
+생각나는 아이디어가 있을 때 구현은 가능하지만 꽤 많은 구글링과 지식이 필요하여 Production 급의 프로젝트에서는 왠만해서는 쓰지 않습니다 <br/><br/>
 
 <h3>🖼️ FrontEnd</h3>
-TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 수 있죠 <br/><br/>
 <p>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin(Android)-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -52,7 +52,6 @@ TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 
 </p>
 
 <h3>🕹️ BackEnd</h3>
-TEST는 TEST이며 TEST입니다. 단순한 TEST는 TEST가 TEST로 TEST화 될 수 있죠 <br/><br/>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
