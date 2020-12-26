@@ -40,14 +40,13 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
 </p>
 
 <h2>🥈 Lv. Project</h2>
-생각나는 아이디어가 있을 때 구현은 가능하지만 꽤 많은 구글링과 지식이 필요합니다. 누군가가 구축해놓은 환경에서 수정, 사용 정도는 가능한 수준입니다. <br/>
-처음부터 구축하며 Production에 적용하기엔 아직 부족합니다. <br/>
+생각나는 아이디어가 있을 때 구현은 가능하지만 꽤 많은 구글링과 지식이 필요합니다. 성능과 트래픽 감당같은 Production에 적용할만큼의 지식은 아직 부족합니다.<br/>
 
 <h3>🖼️ FrontEnd</h3>
 <p>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin(Android)-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin(Android)-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 </p>
 
 <h3>🕹️ BackEnd</h3>
@@ -55,6 +54,18 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
+</p>
+
+<h2>🥈 Lv. Toy Project</h2>
+누군가가 구축해놓은 환경에서 수정, 사용 정도는 가능한 수준입니다. <br/>
+
+<h3>🖼️ FrontEnd</h3>
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+</p>
+
+<h3>🕹️ BackEnd</h3>
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
 
