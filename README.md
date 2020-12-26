@@ -56,7 +56,7 @@ Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-<h2>🥈 Lv. Toy Project</h2>
+<h2>🥉 Lv. Toy Project</h2>
 누군가가 구축해놓은 환경에서 수정, 사용 정도는 가능한 수준입니다. <br/>
 
 <h3>🖼️ FrontEnd</h3>
