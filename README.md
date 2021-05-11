@@ -17,9 +17,9 @@ Flutter를 사용하여 현재 근무중인 화이트블록에서 모바일 전�
 
 <h3>🕹️ BackEnd</h3>
 개발자를 위한 최고의 문자 플랫폼 <a href="https://solapi.com">SOLAPI</a> 에서 근무하는 동안 OAuth 개발, 결제 API, 잔액소진알림, 개발 연동 예제 작업 등 백엔드 개발을 하였습니다.<br/>	
-Go를 사용하여 현재 근무중인 화이트블록에서 준비중인 서비스 개발에 참여하고 있습니다. <br/><br/>
+Go를 사용하여 근무했던 회사에서 준비중인 서비스 개발에 참여하고 있습니다. <br/><br/>
 화이트블록의 프로덕트인 <a href="http://www.nowtakeit.com/">테이킷</a> 백엔드 배포를 AWS ECS를 통해 진행하였고 최근 AWS -> GCP 이전 작업을 하였습니다. <br/>
-현재 화이트블록에서 모바일 전자지갑 어플리케이션 <a href="http://itsme.id">잇츠미</a> 의 백엔드를 GCP 로 관리하고 있습니다.<br/>
+화이트블록에서 모바일 전자지갑 어플리케이션 <a href="http://itsme.id">잇츠미</a> 의 백엔드를 GCP 로 관리했었습니다.<br/>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
